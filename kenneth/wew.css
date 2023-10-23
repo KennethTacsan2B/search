@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+  background-image: url(background1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.input-group {
+  margin-top: 40px;
+  margin-left: 250px;
+}
+td a {
+  border: 1px solid #e927dc;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: #e927dc;
+  outline: none;
+  font-size: 1rem;
+}
+td a:hover {
+  color: white;
+}
+.btn {
+  background-color: #e927dc;
+  border-color: #e927dc;
+  width: 100px;
+}
+.btn:hover {
+  background-color: #c850c0;
+  border-color: #c850c0;
+}
+.input-group .form-control {
+  width: 300px;
+}
